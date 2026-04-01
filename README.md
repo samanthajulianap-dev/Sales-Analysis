@@ -29,6 +29,7 @@ Year-to-Date (YTD) metrics:
 Total Sales
 Average Sales
 Products Sold
+
 2. Details Page
 
 Offers a more granular view of the data for deeper analysis.
