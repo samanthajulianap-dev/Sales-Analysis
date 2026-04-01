@@ -21,7 +21,7 @@ The report consists of two main pages:
 
 Provides a high-level summary of sales performance across regions and time.
 
-Key features:
+**Key features:**
 
 Sales breakdown by Region, Category, and Subcategory
 Quarterly trends
