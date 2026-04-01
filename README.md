@@ -49,6 +49,7 @@ Tools Used
 Power BI
 Excel
 DAX
+
 Purpose
 
 This project was created as a portfolio piece to demonstrate foundational skills in data modeling, DAX, and dashboard design using Power BI.
